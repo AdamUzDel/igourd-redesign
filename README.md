@@ -26,7 +26,7 @@ iGourd is a cutting-edge Point of Sale (POS) solutions provider, offering advanc
 ## Technologies Used
 
 - Next.js 15.1.4
-- React 18
+- React 19
 - TypeScript (85.4%)
 - JavaScript (8.8%)
 - Tailwind CSS

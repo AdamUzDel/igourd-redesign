@@ -59,19 +59,19 @@
           "text": "iGourd POS彻底改变了我们的经营方式。它直观、快速且非常可靠。",
           "author": "王小姐",
           "position": "咖啡馆老板",
-          "avatar": "/avatars/wang-xiaojie.jpg"
+          "avatar": "/avatar_female_woman_person_people_white_tone_icon_159360.webp"
         },
         {
           "text": "iGourd系统的灵活性使我们能够完美地根据我们的独特需求进行定制。",
           "author": "李先生",
           "position": "科技零售CEO",
-          "avatar": "/avatars/li-xiansheng.jpg"
+          "avatar": "/aazrsnwge.webp"
         },
         {
           "text": "他们的客户支持非常出色。我们遇到的任何问题都能快速有效地解决。",
           "author": "张女士",
           "position": "绿色杂货店经理",
-          "avatar": "/avatars/zhang-nvshi.jpg"
+          "avatar": "/avatar-girls-icon-vector-woman-260nw-433429546.webp"
         }
       ]
     },
@@ -83,19 +83,19 @@
     "products": [
       {
         "name": "iGourd POS终端",
-        "image": "/products/pos-terminal.png"
+        "image": "/hp-mini-desktop-animated-o0tLhMQ1.gif"
       },
       {
         "name": "iGourd移动POS",
-        "image": "/products/mobile-pos.jpg"
+        "image": "/hp-desktop-BlSKCubz.png"
       },
       {
         "name": "iGourd库存管理",
-        "image": "/products/inventory-management.webp"
+        "image": "/demo_3-COnNSgVh.webp"
       },
       {
         "name": "iGourd客户忠诚度",
-        "image": "/products/customer-loyalty.svg"
+        "image": "/hp-mini-desktop-stv5AA1W.png"
       }
     ]
   },
@@ -122,7 +122,7 @@
       {
         "name": "iGourd POS终端",
         "description": "我们的旗舰POS终端，专为速度和可靠性而设计。",
-        "image": "/products/pos-terminal.png",
+        "image": "/hp-mini-desktop-animated-o0tLhMQ1.gif",
         "slug": "pos-terminal",
         "features": [
           "高速交易处理",
@@ -149,7 +149,7 @@
       {
         "name": "iGourd移动POS",
         "description": "使用我们的移动解决方案，随时随地进行销售。",
-        "image": "/products/mobile-pos.jpg",
+        "image": "/hp-desktop-BlSKCubz.png",
         "slug": "mobile-pos",
         "features": [
           "便携式设计",
@@ -176,7 +176,7 @@
       {
         "name": "iGourd库存管理",
         "description": "使用我们的高级库存系统跟踪您的库存。",
-        "image": "/products/inventory-management.webp",
+        "image": "/hp-mini-desktop-stv5AA1W.png",
         "slug": "inventory-management",
         "features": [
           "实时库存跟踪",
@@ -313,19 +313,19 @@
         "quote": "培训内容全面且易于理解。自从实施所学知识以来，我们团队的生产力显著提高。",
         "name": "李明",
         "position": "零售店经理，优购商城",
-        "avatar": "/avatars/li-ming.jpg"
+        "avatar": "/aazrsnwge.webp"
       },
       {
         "quote": "iGourd的高级库存管理培训彻底改变了我们处理库存的方式。这对我们的业务来说是一个重大突破。",
         "name": "张伟",
         "position": "库存专员，科技商城",
-        "avatar": "/avatars/zhang-wei.jpg"
+        "avatar": "/avatar_female_woman_person_people_white_tone_icon_159360.webp"
       },
       {
         "quote": "客户忠诚度计划培训帮助我们将回头客增加了30%。结果不言而喻！",
         "name": "王芳",
         "position": "市场总监，咖啡连锁",
-        "avatar": "/avatars/wang-fang.jpg"
+        "avatar": "/avatar-girls-icon-vector-woman-260nw-433429546.webp"
       }
     ],
     "programs": [
@@ -355,7 +355,7 @@
     "supportLink": "如果您需要产品支持，请访问我们的支持中心",
     "getInTouch": "联系信息",
     "phone": "电话",
-    "phoneNumber": "+86 (555) 123-4567",
+    "phoneNumber": "+256 (760) 180-588",
     "email": "电子邮件",
     "emailAddress": "support@igourd.com",
     "address": "地址",

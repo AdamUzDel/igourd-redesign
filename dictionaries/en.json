@@ -1,0 +1,572 @@
+{
+  "home": {
+    "heroTitle": "Revolutionize Your Business with Our POS Solutions",
+    "heroSubtitle": "From hardware to software, we empower businesses of all sizes with cutting-edge tools to streamline operations and boost sales.",
+    "exploreProducts": "Explore Products",
+    "contactSales": "Contact Sales",
+    "featuredProducts": "Our POS Solutions",
+    "learnMore": "Learn More",
+    "keyFeatures": {
+      "title": "What Makes Our Products Outstanding",
+      "features": [
+        {
+          "title": "Easy to Use",
+          "description": "Quick to learn and master"
+        },
+        {
+          "title": "Fast Checkout Process",
+          "description": "Keep lines moving efficiently"
+        },
+        {
+          "title": "Flexible Configuration",
+          "description": "Adapts to any business need"
+        },
+        {
+          "title": "Reliable Support",
+          "description": "Help whenever you need it"
+        }
+      ]
+    },
+    "businessImpact": {
+      "title": "Empower Your Business",
+      "description": "Build customer trust, and simplify your operations with our advanced POS solutions."
+    },
+    "valueProposition": {
+      "title": "Why Choose iGourd POS",
+      "points": [
+        {
+          "title": "User Friendly",
+          "description": "Designed for ease of use, our POS systems make managing your business effortless."
+        },
+        {
+          "title": "Performance",
+          "description": "Experience unmatched speed and reliability with our high-performance POS systems."
+        },
+        {
+          "title": "Security",
+          "description": "Keep your transactions secure with our advanced encryption and compliance features."
+        },
+        {
+          "title": "Powerful Software",
+          "description": "Leverage cutting-edge software to streamline operations and boost productivity."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "quotes": [
+        {
+          "text": "iGourd POS has transformed the way we do business. It's intuitive, fast, and incredibly reliable.",
+          "author": "Namusoke Edna",
+          "position": "Owner, Cafe Delight, Kabalagala",
+          "avatar": "/avatar_female_woman_person_people_white_tone_icon_159360.webp"
+        },
+        {
+          "text": "The flexibility of iGourd's system allowed us to tailor it perfectly to our unique needs.",
+          "author": "John Smith",
+          "position": "CEO, TechRetail - Kampala",
+          "avatar": "/aazrsnwge.webp"
+        },
+        {
+          "text": "Their customer support is outstanding. Any issues we've had were resolved quickly and efficiently.",
+          "author": "Navuga Violet",
+          "position": "Manager, GreenGrocer",
+          "avatar": "/avatar-girls-icon-vector-woman-260nw-433429546.webp"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Get in touch with our team to learn how iGourd can revolutionize your operations.",
+      "cta": "Contact Us Now"
+    },
+    "products": [
+      {
+        "name": "iGourd POS Terminal",
+        "image": "/hp-mini-desktop-animated-o0tLhMQ1.gif"
+      },
+      {
+        "name": "iGourd Mobile POS",
+        "image": "/hp-desktop-BlSKCubz.png"
+      },
+      {
+        "name": "iGourd Inventory Management",
+        "image": "/demo_3-COnNSgVh.webp"
+      },
+      {
+        "name": "iGourd Customer Loyalty",
+        "image": "/hp-mini-desktop-stv5AA1W.png"
+      }
+    ]
+  },
+  "navigation": {
+    "home": "Home",
+    "productsServices": "Products & Services",
+    "training": "Training",
+    "contactUs": "Contact Us",
+    "joinUs": "Join Us"
+  },
+  "productsServices": {
+    "heroTitle": "Our Products & Services",
+    "heroSubtitle": "Discover how iGourd's cutting-edge POS solutions can transform your business operations",
+    "productsTitle": "Our Products",
+    "servicesTitle": "Our Services",
+    "learnMore": "Learn More",
+    "productDetails": "Product Details",
+    "contactSales": "Contact Sales",
+    "keyBenefits": "Key Benefits",
+    "ctaTitle": "Ready to Upgrade Your Business?",
+    "ctaDescription": "Experience the power of iGourd POS solutions and take your business to the next level.",
+    "ctaButton": "Get Started Now",
+    "products": [
+      {
+        "name": "iGourd POS Terminal",
+        "description": "Our flagship POS terminal, designed for speed and reliability.",
+        "image": "/hp-mini-desktop-animated-o0tLhMQ1.gif",
+        "slug": "pos-terminal",
+        "features": [
+          "High-speed transaction processing",
+          "Intuitive touch screen interface",
+          "Integrated payment system",
+          "Real-time inventory management",
+          "Customer relationship management tools"
+        ],
+        "benefits": [
+          {
+            "title": "Increased Efficiency",
+            "description": "Process transactions faster and reduce wait times for customers."
+          },
+          {
+            "title": "Improved Accuracy",
+            "description": "Minimize errors with our user-friendly interface and automated processes."
+          },
+          {
+            "title": "Enhanced Customer Experience",
+            "description": "Provide a seamless checkout experience and build customer loyalty."
+          }
+        ]
+      },
+      {
+        "name": "iGourd Mobile POS",
+        "description": "Take your point of sale anywhere with our mobile solution.",
+        "image": "/hp-desktop-BlSKCubz.png",
+        "slug": "mobile-pos",
+        "features": [
+          "Portability and flexibility",
+          "Seamless integration with the iGourd ecosystem",
+          "Offline functionality",
+          "Secure payment processing",
+          "Real-time sales data access"
+        ],
+        "benefits": [
+          {
+            "title": "Increased Sales",
+            "description": "Reach more customers by processing transactions anywhere."
+          },
+          {
+            "title": "Improved Customer Service",
+            "description": "Provide convenient and personalized service to your customers."
+          },
+          {
+            "title": "Enhanced Operational Efficiency",
+            "description": "Streamline your operations and manage your business on the go."
+          }
+        ]
+      },
+      {
+        "name": "iGourd Inventory Management",
+        "description": "Keep track of your stock with our advanced inventory system.",
+        "image": "/demo_3-COnNSgVh.webp",
+        "slug": "inventory-management",
+        "features": [
+          "Real-time inventory tracking",
+          "Automated stock alerts",
+          "Detailed sales reports",
+          "Integration with suppliers",
+          "Predictive inventory analysis"
+        ],
+        "benefits": [
+          {
+            "title": "Reduced Stockouts",
+            "description": "Avoid lost sales by accurately tracking your inventory levels."
+          },
+          {
+            "title": "Optimized Inventory Costs",
+            "description": "Reduce waste and improve profitability by managing your inventory effectively."
+          },
+          {
+            "title": "Improved Decision-Making",
+            "description": "Make informed decisions based on real-time data and insights."
+          }
+        ]
+      },
+      {
+        "name": "iGourd Customer Loyalty",
+        "description": "Build and manage customer relationships with our loyalty program.",
+        "image": "/hp-mini-desktop-stv5AA1W.png",
+        "slug": "customer-loyalty",
+        "features": [
+          "Points-based reward system",
+          "Personalized offers and promotions",
+          "Customer segmentation and targeting",
+          "Automated email marketing",
+          "Detailed customer analytics"
+        ],
+        "benefits": [
+          {
+            "title": "Increased Customer Retention",
+            "description": "Reward loyal customers and encourage repeat business."
+          },
+          {
+            "title": "Improved Customer Engagement",
+            "description": "Build stronger relationships with your customers through personalized communication."
+          },
+          {
+            "title": "Enhanced Brand Loyalty",
+            "description": "Create a loyal customer base and strengthen your brand reputation."
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "name": "Installation & Setup",
+        "description": "Professional installation and setup of your iGourd POS system.",
+        "slug": "installation-setup"
+      },
+      {
+        "name": "Training & Support",
+        "description": "Comprehensive training and ongoing support for your team.",
+        "slug": "training-support"
+      },
+      {
+        "name": "Custom Integration",
+        "description": "Seamlessly integrate iGourd with your existing business systems.",
+        "slug": "custom-integration"
+      }
+    ]
+  },
+  "training": {
+    "heroTitle": "iGourd Training Programs",
+    "heroSubtitle": "Empower your team with the knowledge and skills to maximize your iGourd POS system",
+    "programsTitle": "Our Training Programs",
+    "programsSubtitle": "Learn how to efficiently operate our POS machines with expert-led training designed to enhance your business operations and customer experience.",
+    "watchVideo": "Watch Video",
+    "learnMore": "Learn More",
+    "benefitsTitle": "Benefits of iGourd Training",
+    "testimonialsTitle": "What Our Trainees Say",
+    "supportMaterialsTitle": "Support Materials",
+    "downloadPDF": "Download PDF",
+    "additionalTrainingTitle": "Need More Training?",
+    "additionalTrainingDescription": "Our team is here to help you get the most out of your iGourd POS system.",
+    "contactUs": "Contact Us",
+    "videos": [
+      {
+        "title": "What is POS System",
+        "subtitle": "Learn the hardware components of a POS system",
+        "youtubeId": "2KTk8WMRFpE"
+      },
+      {
+        "title": "How to Use Square Register",
+        "subtitle": "Get to know your Square Register and customer display",
+        "youtubeId": "pEPBl0nSbJw"
+      },
+      {
+        "title": "Unboxing Square Terminal",
+        "subtitle": "Learn more about Square Terminal and its features",
+        "youtubeId": "JRFoLTUsoK4"
+      }
+    ],
+    "supportMaterials": [
+      {
+        "title": "POS System Electronic Manuals",
+        "description": "Comprehensive guide to all features of our POS system",
+        "url": "/pdfs/POS-System-Electronic-Manuals.pdf"
+      },
+      {
+        "title": "POS System Quick Start Guide",
+        "description": "Get up and running quickly with our easy-to-follow guide",
+        "url": "/pdfs/POS-System-Quick-Start-Guide.pdf"
+      },
+      {
+        "title": "POS80 Thermal Printer User's Manual",
+        "description": "Detailed instructions for operating the POS80 Thermal Printer",
+        "url": "/pdfs/POS80-Thermal-Printer-Users-Manual.pdf"
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Increased Efficiency",
+        "description": "Streamline your operations and reduce transaction times with our expert training."
+      },
+      {
+        "title": "Enhanced Customer Service",
+        "description": "Equip your staff to provide faster, more accurate service, improving customer satisfaction."
+      },
+      {
+        "title": "Maximized ROI",
+        "description": "Get the most out of your iGourd POS investment by fully utilizing all features and capabilities."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "The training was comprehensive and easy to follow. Our team's productivity has significantly improved since implementing what we learned.",
+        "name": "Bulime stanley",
+        "position": "Store Manager, RetailPlus",
+        "avatar": "/aazrsnwge.webp"
+      },
+      {
+        "quote": "iGourd's advanced inventory management training has revolutionized how we handle our stock. It's been a game-changer for our business.",
+        "name": "Mike Adams",
+        "position": "Inventory Specialist, TechMart",
+        "avatar": "/avatar_female_woman_person_people_white_tone_icon_159360.webp"
+      },
+      {
+        "quote": "The customer loyalty program training helped us boost our repeat business by 30%. The results speak for themselves!",
+        "name": "Emma Omutekei",
+        "position": "Marketing Director, CafeChain",
+        "avatar": "/avatar-girls-icon-vector-woman-260nw-433429546.webp"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Basic POS Operations",
+        "description": "Learn the fundamentals of operating the iGourd POS system.",
+        "image": "/training/basic-pos.jpg",
+        "slug": "basic-pos-operations"
+      },
+      {
+        "name": "Advanced Inventory Management",
+        "description": "Master inventory tracking and optimization techniques.",
+        "image": "/training/inventory-management.jpg",
+        "slug": "advanced-inventory-management"
+      },
+      {
+        "name": "Customer Loyalty Program",
+        "description": "Implement and manage effective customer loyalty strategies.",
+        "image": "/training/customer-loyalty.jpg",
+        "slug": "customer-loyalty-program"
+      }
+    ]
+  },
+  "contactUs": {
+    "heroTitle": "Talk with our sales team",
+    "heroSubtitle": "Fill out your information and an iGourd representative will reach out to you. If you're looking for product support, visit our ",
+    "supportLink": "Support Center",
+    "getInTouch": "Contact Information",
+    "phone": "Phone",
+    "phoneNumber": "+1 (555) 123-4567",
+    "email": "Email",
+    "emailAddress": "support@igourd.com",
+    "address": "Address",
+    "addressDetails": "Serena Hotel Kampala, Kintu Rd, Kampala, Uganda",
+    "businessHours": "Business Hours",
+    "businessHoursDetails": "Monday - Friday: 9am - 5pm",
+    "sendMessage": "Send Us a Message",
+    "name": "Your Name",
+    "message": "Your Message",
+    "businessType": "Business Type",
+    "businessTypes": [
+      "Restaurant",
+      "Cafe",
+      "Supermarket",
+      "Saloon",
+      "Grocery Store",
+      "Other"
+    ],
+    "send": "Send Message",
+    "findUs": "Find Us",
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "question": "What types of businesses can use iGourd POS?",
+        "answer": "iGourd POS is designed to cater to a wide range of businesses, including retail stores, restaurants, cafes, and service-based businesses. Our flexible system can be customized to meet the specific needs of your industry."
+      },
+      {
+        "question": "Do you offer on-site installation and training?",
+        "answer": "Yes, we provide on-site installation and training services to ensure your team is fully equipped to use our POS system effectively. Our expert technicians will set up the hardware and software, and provide comprehensive training tailored to your business needs."
+      },
+      {
+        "question": "What kind of customer support do you offer?",
+        "answer": "We offer 24/7 customer support via phone, email, and live chat. Our dedicated support team is always ready to assist you with any questions or issues you may encounter while using our POS system."
+      },
+      {
+        "question": "Can iGourd POS integrate with my existing business software?",
+        "answer": "Yes, iGourd POS is designed to integrate seamlessly with a variety of business software, including accounting, inventory management, and e-commerce platforms. We can work with you to ensure smooth integration with your existing systems."
+      }
+    ]
+  },
+  "joinUs": {
+    "heroTitle": "Join Our Team and Shape the Future of Technology",
+    "heroSubtitle": "Join us at iGourd to work on innovative projects, collaborate with talented professionals, and make a real impact in the tech industry.",
+    "currentOpenings": "Current Openings",
+    "applyNow": "Apply Now",
+    "uploadCV": "Don't see a perfect fit?",
+    "uploadCVDescription": "Upload your CV and we'll get back to you if a suitable position becomes available.",
+    "uploadYourCV": "Upload Your CV",
+    "name": "Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "cv": "CV",
+    "submit": "Submit Application",
+    "whyJoinUs": "Why Join iGourd?",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer",
+        "department": "Engineering",
+        "description": "We're looking for an experienced software engineer to help lead our development efforts in creating cutting-edge POS solutions."
+      },
+      {
+        "title": "UX/UI Designer",
+        "department": "Design",
+        "description": "Join our design team to create intuitive and beautiful interfaces for our POS systems and mobile applications."
+      },
+      {
+        "title": "Sales Representative",
+        "department": "Sales",
+        "description": "Help businesses discover the power of iGourd's POS solutions and grow our client base."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Innovative Projects",
+        "description": "Work on cutting-edge technology that's shaping the future of retail and hospitality industries."
+      },
+      {
+        "title": "Professional Growth",
+        "description": "Continuous learning opportunities, mentorship programs, and career advancement paths."
+      },
+      {
+        "title": "Work-Life Balance",
+        "description": "Flexible working hours, remote work options, and generous paid time off."
+      },
+      {
+        "title": "Competitive Compensation",
+        "description": "Attractive salary packages, performance bonuses, and stock options."
+      },
+      {
+        "title": "Collaborative Environment",
+        "description": "Work with a diverse team of talented professionals in a supportive and inclusive workplace."
+      },
+      {
+        "title": "Global Impact",
+        "description": "Contribute to products used by businesses worldwide, making a real difference in how they operate."
+      }
+    ]
+  },
+  "support": {
+    "heroTitle": "How Can We Help You?",
+    "heroSubtitle": "Find answers to your questions and get the support you need",
+    "searchPlaceholder": "Search for help articles...",
+    "search": "Search",
+    "categories": {
+      "title": "Support Categories",
+      "items": [
+        {
+          "title": "Getting Started",
+          "description": "Learn the basics of setting up and using your iGourd POS system."
+        },
+        {
+          "title": "Troubleshooting",
+          "description": "Find solutions to common issues and error messages."
+        },
+        {
+          "title": "Account & Billing",
+          "description": "Manage your account settings and billing information."
+        },
+        {
+          "title": "Features & Updates",
+          "description": "Discover new features and stay up-to-date with the latest improvements."
+        },
+        {
+          "title": "Integration & APIs",
+          "description": "Learn how to integrate iGourd with other business tools and systems."
+        },
+        {
+          "title": "Security & Compliance",
+          "description": "Understand our security measures and compliance standards."
+        }
+      ]
+    },
+    "learnMore": "Learn More",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How do I reset my password?",
+          "answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email."
+        },
+        {
+          "question": "Can I use iGourd POS offline?",
+          "answer": "Yes, iGourd POS has an offline mode that allows you to continue processing transactions even without an internet connection. Data will sync once you're back online."
+        },
+        {
+          "question": "How often are software updates released?",
+          "answer": "We typically release software updates on a monthly basis, with critical security patches released as needed."
+        },
+        {
+          "question": "Is my data backed up automatically?",
+          "answer": "Yes, we perform automatic backups of your data daily. You can also manually initiate a backup at any time from your account settings."
+        }
+      ]
+    },
+    "viewAllFAQs": "View All FAQs",
+    "contact": {
+      "title": "Still Need Help?",
+      "chat": {
+        "title": "Live Chat Support",
+        "description": "Chat with our support team for immediate assistance.",
+        "cta": "Start Chat"
+      },
+      "phone": {
+        "title": "Phone Support",
+        "description": "Speak directly with our support specialists.",
+        "cta": "Call Now"
+      }
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "title": "Introduction",
+        "content": "At iGourd, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you use our products and services."
+      },
+      {
+        "title": "Information We Collect",
+        "content": "We collect various types of information, including personal information (such as name, email address, and phone number), transaction data, and usage information related to our POS systems and services."
+      },
+      {
+        "title": "How We Use Your Information",
+        "content": "We use the collected information to provide and improve our services, process transactions, offer customer support, and send important updates and marketing communications (with your consent)."
+      },
+      {
+        "title": "Data Security",
+        "content": "We implement robust security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. This includes encryption, access controls, and regular security audits."
+      },
+      {
+        "title": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information. You can also opt-out of marketing communications at any time. To exercise these rights, please contact our support team."
+      },
+      {
+        "title": "Updates to This Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting a notice on our website or sending you an email."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Transform Your Business with Powerful, Seamless POS Solutions Built For You.",
+    "resources": "Resources",
+    "helpCenter": "Help Center",
+    "guides": "Guides",
+    "tutorials": "Tutorials",
+    "contact": "Contact",
+    "contactUs": "Contact Us",
+    "sales": "Sales",
+    "locations": "Locations",
+    "copyright": "© {year} iGourd. All rights reserved.",
+    "privacyPolicy": "Privacy Policy"
+  }
+}
+

@@ -1,0 +1,572 @@
+{
+  "home": {
+    "heroTitle": "用我们的POS解决方案革新您的业务",
+    "heroSubtitle": "从硬件到软件，我们为各种规模的企业提供尖端工具，以简化运营并提高销售额。",
+    "exploreProducts": "探索产品",
+    "contactSales": "联系销售",
+    "featuredProducts": "我们的POS解决方案",
+    "learnMore": "了解更多",
+    "keyFeatures": {
+      "title": "我们产品的突出特点",
+      "features": [
+        {
+          "title": "易于使用",
+          "description": "快速学习和掌握"
+        },
+        {
+          "title": "快速结账流程",
+          "description": "保持队伍高效移动"
+        },
+        {
+          "title": "灵活配置",
+          "description": "适应任何业务需求"
+        },
+        {
+          "title": "可靠支持",
+          "description": "随时提供帮助"
+        }
+      ]
+    },
+    "businessImpact": {
+      "title": "赋能您的业务",
+      "description": "通过我们的先进POS解决方案，建立客户信任，简化您的运营。"
+    },
+    "valueProposition": {
+      "title": "为什么选择iGourd POS",
+      "points": [
+        {
+          "title": "用户友好",
+          "description": "我们的POS系统设计易于使用，使业务管理变得轻松。"
+        },
+        {
+          "title": "性能",
+          "description": "体验我们高性能POS系统的无与伦比的速度和可靠性。"
+        },
+        {
+          "title": "安全性",
+          "description": "通过我们的先进加密和合规功能，保护您的交易安全。"
+        },
+        {
+          "title": "强大软件",
+          "description": "利用尖端软件简化运营并提高生产力。"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "客户评价",
+      "quotes": [
+        {
+          "text": "iGourd POS彻底改变了我们的经营方式。它直观、快速且非常可靠。",
+          "author": "王小姐",
+          "position": "咖啡馆老板",
+          "avatar": "/avatars/wang-xiaojie.jpg"
+        },
+        {
+          "text": "iGourd系统的灵活性使我们能够完美地根据我们的独特需求进行定制。",
+          "author": "李先生",
+          "position": "科技零售CEO",
+          "avatar": "/avatars/li-xiansheng.jpg"
+        },
+        {
+          "text": "他们的客户支持非常出色。我们遇到的任何问题都能快速有效地解决。",
+          "author": "张女士",
+          "position": "绿色杂货店经理",
+          "avatar": "/avatars/zhang-nvshi.jpg"
+        }
+      ]
+    },
+    "contact": {
+      "title": "准备好改变您的业务了吗？",
+      "description": "与我们的团队联系，了解iGourd如何彻底改变您的运营。",
+      "cta": "立即联系我们"
+    },
+    "products": [
+      {
+        "name": "iGourd POS终端",
+        "image": "/products/pos-terminal.png"
+      },
+      {
+        "name": "iGourd移动POS",
+        "image": "/products/mobile-pos.jpg"
+      },
+      {
+        "name": "iGourd库存管理",
+        "image": "/products/inventory-management.webp"
+      },
+      {
+        "name": "iGourd客户忠诚度",
+        "image": "/products/customer-loyalty.svg"
+      }
+    ]
+  },
+  "navigation": {
+    "home": "首页",
+    "productsServices": "产品和服务",
+    "training": "培训",
+    "contactUs": "联系我们",
+    "joinUs": "加入我们"
+  },
+  "productsServices": {
+    "heroTitle": "我们的产品和服务",
+    "heroSubtitle": "探索iGourd尖端POS解决方案如何改变您的业务运营",
+    "productsTitle": "我们的产品",
+    "servicesTitle": "我们的服务",
+    "learnMore": "了解更多",
+    "productDetails": "产品详情",
+    "contactSales": "联系销售",
+    "keyBenefits": "主要优势",
+    "ctaTitle": "准备好升级您的业务了吗？",
+    "ctaDescription": "体验iGourd POS解决方案的强大功能，将您的业务提升到新的高度。",
+    "ctaButton": "立即开始",
+    "products": [
+      {
+        "name": "iGourd POS终端",
+        "description": "我们的旗舰POS终端，专为速度和可靠性而设计。",
+        "image": "/products/pos-terminal.png",
+        "slug": "pos-terminal",
+        "features": [
+          "高速交易处理",
+          "直观的触摸屏界面",
+          "集成支付系统",
+          "实时库存管理",
+          "客户关系管理工具"
+        ],
+        "benefits": [
+          {
+            "title": "提高效率",
+            "description": "更快地处理交易，减少客户等待时间。"
+          },
+          {
+            "title": "提高准确性",
+            "description": "通过我们用户友好的界面和自动化流程，最大限度地减少错误。"
+          },
+          {
+            "title": "增强客户体验",
+            "description": "提供无缝的结账体验，建立客户忠诚度。"
+          }
+        ]
+      },
+      {
+        "name": "iGourd移动POS",
+        "description": "使用我们的移动解决方案，随时随地进行销售。",
+        "image": "/products/mobile-pos.jpg",
+        "slug": "mobile-pos",
+        "features": [
+          "便携式设计",
+          "无线连接",
+          "安全的支付处理",
+          "移动库存管理",
+          "客户忠诚度计划集成"
+        ],
+        "benefits": [
+          {
+            "title": "灵活性和机动性",
+            "description": "在任何地方进行销售，扩展您的业务范围。"
+          },
+          {
+            "title": "便捷的客户服务",
+            "description": "直接在客户面前处理交易，提供个性化服务。"
+          },
+          {
+            "title": "提高销售额",
+            "description": "通过方便的移动支付选项，吸引更多客户。"
+          }
+        ]
+      },
+      {
+        "name": "iGourd库存管理",
+        "description": "使用我们的高级库存系统跟踪您的库存。",
+        "image": "/products/inventory-management.webp",
+        "slug": "inventory-management",
+        "features": [
+          "实时库存跟踪",
+          "库存警报",
+          "库存报告",
+          "库存预测",
+          "供应商管理"
+        ],
+        "benefits": [
+          {
+            "title": "减少库存短缺",
+            "description": "准确跟踪库存水平，避免缺货。"
+          },
+          {
+            "title": "优化库存水平",
+            "description": "通过数据驱动的见解，最大限度地减少库存成本。"
+          },
+          {
+            "title": "提高运营效率",
+            "description": "简化库存管理流程，提高效率。"
+          }
+        ]
+      },
+      {
+        "name": "iGourd客户忠诚度",
+        "description": "通过我们的忠诚度计划建立和管理客户关系。",
+        "image": "/products/customer-loyalty.svg",
+        "slug": "customer-loyalty",
+        "features": [
+          "积分奖励",
+          "个性化优惠",
+          "客户细分",
+          "奖励兑换",
+          "客户数据分析"
+        ],
+        "benefits": [
+          {
+            "title": "提高客户留存率",
+            "description": "通过奖励和优惠，鼓励重复购买。"
+          },
+          {
+            "title": "增强客户关系",
+            "description": "建立更强的客户关系，提高客户满意度。"
+          },
+          {
+            "title": "提高销售额",
+            "description": "通过有针对性的营销活动，增加销售额。"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "name": "安装和设置",
+        "description": "专业安装和设置您的iGourd POS系统。",
+        "slug": "installation-setup"
+      },
+      {
+        "name": "培训和支持",
+        "description": "为您的团队提供全面的培训和持续支持。",
+        "slug": "training-support"
+      },
+      {
+        "name": "自定义集成",
+        "description": "将iGourd无缝集成到您现有的业务系统中。",
+        "slug": "custom-integration"
+      }
+    ]
+  },
+  "training": {
+    "heroTitle": "iGourd培训课程",
+    "heroSubtitle": "为您的团队提供知识和技能，以最大化利用iGourd POS系统",
+    "programsTitle": "我们的培训课程",
+    "programsSubtitle": "通过专家指导的培训，学习如何高效操作我们的POS机器，以提升您的业务运营和客户体验。",
+    "watchVideo": "观看视频",
+    "learnMore": "了解更多",
+    "benefitsTitle": "iGourd培训的优势",
+    "testimonialsTitle": "学员反馈",
+    "supportMaterialsTitle": "支持材料",
+    "downloadPDF": "下载PDF",
+    "additionalTrainingTitle": "需要更多培训？",
+    "additionalTrainingDescription": "我们的团队随时为您提供帮助，让您充分利用iGourd POS系统。",
+    "contactUs": "联系我们",
+    "videos": [
+      {
+        "title": "什么是POS系统",
+        "subtitle": "了解POS系统的硬件组件",
+        "youtubeId": "2KTk8WMRFpE"
+      },
+      {
+        "title": "如何使用Square Register",
+        "subtitle": "了解您的Square Register和客户显示屏",
+        "youtubeId": "pEPBl0nSbJw"
+      },
+      {
+        "title": "Square Terminal开箱",
+        "subtitle": "了解更多关于Square Terminal及其功能",
+        "youtubeId": "JRFoLTUsoK4"
+      }
+    ],
+    "supportMaterials": [
+      {
+        "title": "POS系统电子手册",
+        "description": "我们POS系统所有功能的全面指南",
+        "url": "/pdfs/POS-System-Electronic-Manuals.pdf"
+      },
+      {
+        "title": "POS系统快速入门指南",
+        "description": "通过我们简单易懂的指南快速上手",
+        "url": "/pdfs/POS-System-Quick-Start-Guide.pdf"
+      },
+      {
+        "title": "POS80热敏打印机用户手册",
+        "description": "POS80热敏打印机的详细操作说明",
+        "url": "/pdfs/POS80-Thermal-Printer-Users-Manual.pdf"
+      }
+    ],
+    "benefits": [
+      {
+        "title": "提高效率",
+        "description": "通过我们的专业培训，简化您的操作并减少交易时间。"
+      },
+      {
+        "title": "提升客户服务",
+        "description": "使您的员工能够提供更快、更准确的服务，提高客户满意度。"
+      },
+      {
+        "title": "最大化投资回报",
+        "description": "通过充分利用所有功能和能力，充分利用您的iGourd POS投资。"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "培训内容全面且易于理解。自从实施所学知识以来，我们团队的生产力显著提高。",
+        "name": "李明",
+        "position": "零售店经理，优购商城",
+        "avatar": "/avatars/li-ming.jpg"
+      },
+      {
+        "quote": "iGourd的高级库存管理培训彻底改变了我们处理库存的方式。这对我们的业务来说是一个重大突破。",
+        "name": "张伟",
+        "position": "库存专员，科技商城",
+        "avatar": "/avatars/zhang-wei.jpg"
+      },
+      {
+        "quote": "客户忠诚度计划培训帮助我们将回头客增加了30%。结果不言而喻！",
+        "name": "王芳",
+        "position": "市场总监，咖啡连锁",
+        "avatar": "/avatars/wang-fang.jpg"
+      }
+    ],
+    "programs": [
+      {
+        "name": "POS基础操作",
+        "description": "学习iGourd POS系统的基本操作。",
+        "image": "/training/basic-pos.jpg",
+        "slug": "basic-pos-operations"
+      },
+      {
+        "name": "高级库存管理",
+        "description": "掌握库存跟踪和优化技术。",
+        "image": "/training/inventory-management.jpg",
+        "slug": "advanced-inventory-management"
+      },
+      {
+        "name": "客户忠诚度计划",
+        "description": "实施和管理有效的客户忠诚度策略。",
+        "image": "/training/customer-loyalty.jpg",
+        "slug": "customer-loyalty-program"
+      }
+    ]
+  },
+  "contactUs": {
+    "heroTitle": "与我们的销售团队交谈",
+    "heroSubtitle": "填写您的信息，iGourd代表将与您联系。",
+    "supportLink": "如果您需要产品支持，请访问我们的支持中心",
+    "getInTouch": "联系信息",
+    "phone": "电话",
+    "phoneNumber": "+86 (555) 123-4567",
+    "email": "电子邮件",
+    "emailAddress": "support@igourd.com",
+    "address": "地址",
+    "addressDetails": "坎帕拉塞丽娜酒店，Kintu路，坎帕拉，乌干达",
+    "businessHours": "营业时间",
+    "businessHoursDetails": "周一至周五：上午9点 - 下午5点",
+    "sendMessage": "给我们发送消息",
+    "name": "您的姓名",
+    "message": "您的留言",
+    "businessType": "业务类型",
+    "businessTypes": [
+      "餐厅",
+      "咖啡厅",
+      "超市",
+      "美容院",
+      "杂货店",
+      "其他"
+    ],
+    "send": "发送消息",
+    "findUs": "查找我们",
+    "faqTitle": "常见问题",
+    "faqs": [
+      {
+        "question": "哪些类型的企业可以使用iGourd POS？",
+        "answer": "iGourd POS 系统设计适用于各种类型的企业，包括零售店、餐厅、咖啡厅和服务型企业。我们的灵活系统可以根据您所在行业的具体需求进行定制。"
+      },
+      {
+        "question": "您是否提供现场安装和培训服务？",
+        "answer": "是的，我们提供现场安装和培训服务，以确保您的团队能够有效地使用我们的POS系统。我们的专业技术人员将安装硬件和软件，并提供针对您业务需求的全面培训。"
+      },
+      {
+        "question": "您提供什么样的客户支持？",
+        "answer": "我们通过电话、电子邮件和在线聊天提供全天候客户支持。我们专业的支持团队随时准备协助您解决使用POS系统时可能遇到的任何问题。"
+      },
+      {
+        "question": "iGourd POS能否与我现有的业务软件集成？",
+        "answer": "是的，iGourd POS 设计可以与各种业务软件无缝集成，包括会计、库存管理和电子商务平台。我们可以与您合作��确保与您现有系统的顺利集成。"
+      }
+    ]
+  },
+  "joinUs": {
+    "heroTitle": "加入我们的团队，塑造科技的未来",
+    "heroSubtitle": "加入iGourd，参与创新项目，与优秀专业人士合作，在科技行业产生真正的影响。",
+    "currentOpenings": "当前职位空缺",
+    "applyNow": "立即申请",
+    "uploadCV": "没有找到合适的职位？",
+    "uploadCVDescription": "上传您的简历，如果有合适的职位，我们会与您联系。",
+    "uploadYourCV": "上传您的简历",
+    "name": "姓名",
+    "namePlaceholder": "输入您的全名",
+    "email": "电子邮件",
+    "emailPlaceholder": "输入您的电子邮件地址",
+    "cv": "简历",
+    "submit": "提交申请",
+    "whyJoinUs": "为什么加入iGourd？",
+    "jobs": [
+      {
+        "title": "高级软件工程师",
+        "department": "工程部",
+        "description": "我们正在寻找经验丰富的软件工程师，帮助领导我们开发尖端POS解决方案的工作。"
+      },
+      {
+        "title": "UX/UI设计师",
+        "department": "设计部",
+        "description": "加入我们的设计团队，为我们的POS系统和移动应用程序创建直观美观的界面。"
+      },
+      {
+        "title": "销售代表",
+        "department": "销售部",
+        "description": "帮助企业发现iGourd POS解决方案的强大功能，并扩大我们的客户群。"
+      }
+    ],
+    "benefits": [
+      {
+        "title": "创新项目",
+        "description": "参与塑造零售和酒店行业未来的尖端技术工作。"
+      },
+      {
+        "title": "职业发展",
+        "description": "持续学习机会、导师计划和职业晋升途径。"
+      },
+      {
+        "title": "工作生活平衡",
+        "description": "灵活的工作时间、远程工作选项和慷慨的带薪休假。"
+      },
+      {
+        "title": "具有竞争力的薪酬",
+        "description": "有吸引力的薪资方案、绩效奖金和股票期权。"
+      },
+      {
+        "title": "协作环境",
+        "description": "在支持性和包容性的工作场所与多元化的优秀专业人士团队合作。"
+      },
+      {
+        "title": "全球影响",
+        "description": "为全球企业使用的产品做出贡献，真正改变他们的运营方式。"
+      }
+    ]
+  },
+  "support": {
+    "heroTitle": "我们如何为您提供帮助？",
+    "heroSubtitle": "找到您问题的答案并获得所需的支持",
+    "searchPlaceholder": "搜索帮助文章...",
+    "search": "搜索",
+    "categories": {
+      "title": "支持类别",
+      "items": [
+        {
+          "title": "入门指南",
+          "description": "了解如何设置和使用iGourd POS系统的基础知识。"
+        },
+        {
+          "title": "故障排除",
+          "description": "找到常见问题和错误消息的解决方案。"
+        },
+        {
+          "title": "账户和账单",
+          "description": "管理您的账户设置和账单信息。"
+        },
+        {
+          "title": "功能和更新",
+          "description": "发现新功能并了解最新的改进。"
+        },
+        {
+          "title": "集成和API",
+          "description": "了解如何将iGourd与其他业务工具和系统集成。"
+        },
+        {
+          "title": "安全和合规",
+          "description": "了解我们的安全措施和合规标准。"
+        }
+      ]
+    },
+    "learnMore": "了解更多",
+    "faq": {
+      "title": "常见问题",
+      "items": [
+        {
+          "question": "如何重置密码？",
+          "answer": "要重置密码，请点击登录页面上的\"忘记密码\"链接，并按照发送到您邮箱的指示进行操作。"
+        },
+        {
+          "question": "我可以离线使用iGourd POS吗？",
+          "answer": "是的，iGourd POS有离线模式，即使没有互联网连接，您也可以继续处理交易。数据将在您重新联网后同步。"
+        },
+        {
+          "question": "软件更新多久发布一次？",
+          "answer": "我们通常每月发布一次软件更新，必要时会发布关键安全补丁。"
+        },
+        {
+          "question": "我的数据是否自动备份？",
+          "answer": "是的，我们每天自动备份您的数据。您也可以随时从账户设置中手动启动备份。"
+        }
+      ]
+    },
+    "viewAllFAQs": "查看所有常见问题",
+    "contact": {
+      "title": "还需要帮助？",
+      "chat": {
+        "title": "在线客服支持",
+        "description": "与我们的支持团队聊天，获得即时帮助。",
+        "cta": "开始聊天"
+      },
+      "phone": {
+        "title": "电话支持",
+        "description": "直接与我们的支持专家交谈。",
+        "cta": "立即致电"
+      }
+    }
+  },
+  "privacyPolicy": {
+    "title": "隐私政策",
+    "sections": [
+      {
+        "title": "简介",
+        "content": "在iGourd，我们致力于保护您的隐私并确保您个人信息的安全。本隐私政策概述了我们在您使用我们的产品和服务时如何收集、使用、披露和保护您的数据。"
+      },
+      {
+        "title": "我们收集的信息",
+        "content": "我们收集各种类型的信息，包括个人信息（如姓名、电子邮件地址和电话号码）、交易数据以及与我们的POS系统和服务相关的使用信息。"
+      },
+      {
+        "title": "我们如何使用您的信息",
+        "content": "我们使用收集的信息来提供和改进我们的服务、处理交易、提供客户支持，以及发送重要更新和营销通信（经您同意）。"
+      },
+      {
+        "title": "数据安全",
+        "content": "我们实施强大的安全措施，以保护您的信息免受未经授权的访问、更改、披露或破坏。这包括加密、访问控制和定期安全审计。"
+      },
+      {
+        "title": "您的权利",
+        "content": "您有权访问、更正或删除您的个人信息。您还可以随时选择退出营销通信。要行使这些权利，请联系我们的支持团队。"
+      },
+      {
+        "title": "本政策的更新",
+        "content": "我们可能会不时更新本隐私政策。如有任何重大变更，我们将通过在我们的网站上发布通知或向您发送电子邮件来通知您。"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "为您打造强大、无缝的POS解决方案，助力企业转型。",
+    "resources": "资源",
+    "helpCenter": "帮助中心",
+    "guides": "指南",
+    "tutorials": "教程",
+    "contact": "联系我们",
+    "contactUs": "联系我们",
+    "sales": "销售",
+    "locations": "位置",
+    "copyright": "© {year} iGourd。保留所有权利。",
+    "privacyPolicy": "隐私政策"
+  }
+}
+
